@@ -1,0 +1,49 @@
+C:\Users\Alex\source\repos\PrintFolderSelect\bin\Release\PrintFolderSelect.exe.config
+C:\Users\Alex\source\repos\PrintFolderSelect\bin\Release\PrintFolderSelect.exe
+C:\Users\Alex\source\repos\PrintFolderSelect\bin\Release\PrintFolderSelect.pdb
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\MainWindow.g.cs
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\App.g.cs
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect_MarkupCompile.cache
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect_MarkupCompile.lref
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\MainWindow.baml
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect.g.resources
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect.Properties.Resources.resources
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect.exe
+C:\Users\Alex\source\repos\PrintFolderSelect\obj\Release\PrintFolderSelect.pdb
+E:\UPDATE\PrintFolderSelect\bin\Release\PrintFolderSelect.exe.config
+E:\UPDATE\PrintFolderSelect\bin\Release\PrintFolderSelect.exe
+E:\UPDATE\PrintFolderSelect\bin\Release\PrintFolderSelect.pdb
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.AssemblyReference.cache
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.SuggestedBindingRedirects.cache
+E:\UPDATE\PrintFolderSelect\obj\Release\MainWindow.g.cs
+E:\UPDATE\PrintFolderSelect\obj\Release\App.g.cs
+E:\UPDATE\PrintFolderSelect\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect_MarkupCompile.cache
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect_MarkupCompile.lref
+E:\UPDATE\PrintFolderSelect\obj\Release\MainWindow.baml
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.g.resources
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.Properties.Resources.resources
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.GenerateResource.cache
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.CoreCompileInputs.cache
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.exe
+E:\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.pdb
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\bin\Release\PrintFolderSelect.exe.config
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\bin\Release\PrintFolderSelect.exe
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\bin\Release\PrintFolderSelect.pdb
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.AssemblyReference.cache
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.SuggestedBindingRedirects.cache
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\MainWindow.g.cs
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\App.g.cs
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect_MarkupCompile.cache
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect_MarkupCompile.lref
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\MainWindow.baml
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.g.resources
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.Properties.Resources.resources
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.GenerateResource.cache
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.csproj.CoreCompileInputs.cache
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.exe
+G:\APLICATIA MEA ZI DE ZI\UPDATE\PrintFolderSelect\obj\Release\PrintFolderSelect.pdb
